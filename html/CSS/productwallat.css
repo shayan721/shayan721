@@ -1,0 +1,25 @@
+.card{text-align: center; border: none; border-radius: 5px;-webkit-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+    box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+    margin-bottom: 100px;
+    }
+
+.card:hover{
+transform: translateY(-5%);
+transition: 0.5s;
+}
+body{
+    background-color: rgb(243, 219, 223);
+}
+.dropdown-menu a{
+    padding: 20px;
+}
+#banner{
+    background-image: url(../images/navbar/58579e549dbca19912abc23fc533a3eb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p{
+    padding: 120px;
+    color: white; 
+}
